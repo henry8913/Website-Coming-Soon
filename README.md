@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=30&color=FFA500&center=true&vCenter=true&width=800&height=60&lines=Website+Coming+Soon+🚧&repeat=false" alt="Website Coming Soon">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=30&color=FFA500&center=true&vCenter=true&width=800&height=60&lines=Website+Coming+Soon+🚧+&repeat=false" alt="Website Coming Soon">
 </h1>
 
 Benvenuto nel progetto **Website Coming Soon**! Questa pagina è stata creata per intrattenere gli utenti mentre aspettano che il sito principale torni online.
